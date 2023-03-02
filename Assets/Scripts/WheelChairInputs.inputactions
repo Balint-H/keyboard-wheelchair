@@ -1,0 +1,74 @@
+{
+    "name": "WheelChairInputs",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "fd640516-0c1d-4f41-8181-127e91c78376",
+            "actions": [
+                {
+                    "name": "Right",
+                    "type": "Button",
+                    "id": "385861f5-9b03-4ed5-ac95-8d405b3a5e9f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left",
+                    "type": "Button",
+                    "id": "670e8902-bf29-4070-8da2-cd344f6ddba1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Shift",
+                    "type": "Button",
+                    "id": "723b8540-cbc0-48e4-8a40-c224f70f3929",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "53c3c4f4-fff5-4d33-bffd-b774bd3ea8b1",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8fd9d0ac-4fdc-4df8-b817-45ffb9543c34",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "39998aa8-42eb-47b6-87fc-e836ce1a3b50",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shift",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

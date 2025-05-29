@@ -1,3 +1,7 @@
+# Wheelchair environments
+Basic environments with a wheelchair in them that allow controlling it with keyboard or socket based communication. Below is the full information for the original author and creator of the wheelchair asset, Justin Majetich. VR/XR functionality has been removed in this fork.
+
+
 # VR Wheelchair
 
 <br/>
